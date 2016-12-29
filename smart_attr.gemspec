@@ -9,8 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["kunliu"]
   spec.email         = ["kun.liu@dji.com"]
 
-  spec.summary       = %q{smart attr}
-  spec.description   = %q{smart attr}
+  spec.summary       = %q{SmartAttr helps you make your model's attribute smart.}
+  spec.description   = %q{This gem helps you make your model's attribute smart.You can get many useful methods with only a little code.
+}
   spec.homepage      = "https://github.com/liukgg/smart_attr"
   spec.license       = "MIT"
 
