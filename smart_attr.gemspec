@@ -32,7 +32,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec",   "~> 3.0"
   spec.add_development_dependency "pry",     "~> 0.10"
   spec.add_development_dependency "activerecord", "~> 4.2"
-  spec.add_development_dependency "sqlite3"
+  spec.add_development_dependency "sqlite3", "~> 1.3"
   spec.add_development_dependency "mongoid", "~> 5.1"
 
   spec.add_dependency "activesupport", "~> 4.2"
